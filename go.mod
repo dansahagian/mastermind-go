@@ -1,3 +1,3 @@
-module example/hello
+module mastermind
 
 go 1.20
